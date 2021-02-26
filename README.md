@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a personal website.
-- 🌱 I’m currently enrolled in CS50x course.
+- 🌱 I’m currently enrolled in the CS50x course at Harvard University.
 - 😄 Pronouns: he/they.
 - ⚡ Fun fact: I used to hate coding.
 
