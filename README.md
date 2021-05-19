@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m working on a personal website.
-- 🌱 I’m currently enrolled in the CS50x course at Harvard University.
-- 😄 Pronouns: he/they.
-- ⚡ Fun fact: I used to hate coding.
-
 <!--
 **nephelibxta/nephelibxta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
